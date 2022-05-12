@@ -10,6 +10,7 @@
 html{
     scroll-behavior: smooth;
 }
+body {background-color: #92a8d1;}
 
 /* custom scroll bar */
 ::-webkit-scrollbar {
